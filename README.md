@@ -4,8 +4,8 @@ This app was made from flutter course in udemy. It offers you categories of meal
 
 Screenshots:
 
-![alt text](https://github.com/sekne18/MealsApp/blob/master/assets/images/scr1.PNG?raw=true)
-![alt text](https://github.com/sekne18/MealsApp/blob/master/assets/images/scr2.PNG?raw=true)
-![alt text](https://github.com/sekne18/MealsApp/blob/master/assets/images/scr3.PNG?raw=true)
-![alt text](https://github.com/sekne18/MealsApp/blob/master/assets/images/scr4.PNG?raw=true)
-![alt text](https://github.com/sekne18/MealsApp/blob/master/assets/images/scr5.PNG?raw=true)
+![alt text](https://github.com/sekne18/MealsApp/blob/main/assets/images/scr1.png?raw=true)
+![alt text](https://github.com/sekne18/MealsApp/blob/main/assets/images/scr2.png?raw=true)
+![alt text](https://github.com/sekne18/MealsApp/blob/main/assets/images/scr3.png?raw=true)
+![alt text](https://github.com/sekne18/MealsApp/blob/main/assets/images/scr4.png?raw=true)
+![alt text](https://github.com/sekne18/MealsApp/blob/main/assets/images/scr5.png?raw=true)
